@@ -3,3 +3,9 @@ app/open_pdf/__pycache__/
 app/hello_django/__pycache__/
 app/open_pdf/migrations/__pycache__/
 .idea
+
+__pycache__/
+*.py[cod]
+
+/app/hello_django/__pycache__/
+/app/open_pdf/api_models/__pycache__/
