@@ -1,1 +1,5 @@
-/app/env/
+app/env/
+app/open_pdf/__pycache__/
+app/hello_django/__pycache__/
+app/open_pdf/migrations/__pycache__/
+.idea
