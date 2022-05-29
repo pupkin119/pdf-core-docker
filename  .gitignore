@@ -9,3 +9,6 @@ __pycache__/
 
 /app/hello_django/__pycache__/
 /app/open_pdf/api_models/__pycache__/
+/app/env/lib/python3.9/site-packages/
+/app/env/
+/.idea/
